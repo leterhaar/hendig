@@ -60,3 +60,5 @@ function svnci() {
     rake svn:delete
     svn ci
 }
+
+# I add some comment here
